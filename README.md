@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hola, Mi nombre es Brayan CT 👋 <br/> </h2> 
 
-<p align="center"><img width=50% src="/files/article/article_02106_.jpg"></p>
+<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
 
 <p align="center"> <samp>Hola, mi nombre es Bryan CT.Soy egresado de la carrera de computacion Informatica 📚📈🔬, Quiero estar en la vanguardia de la tecnologia 🤩 🎈. En mi repositorio encontraras proyectos echos en : 
