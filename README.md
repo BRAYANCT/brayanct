@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hola, Mi nombre es Brayan CT 👋 <br/> </h2> 
 
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
+<p align="center"><img width=50% src="/files/article/article_02106_.jpg"></p>
 
 
 <p align="center"> <samp>Hola, mi nombre es Bryan CT.Soy egresado de la carrera de computacion Informatica 📚📈🔬, Quiero estar en la vanguardia de la tecnologia 🤩 🎈. En mi repositorio encontraras proyectos echos en : 
@@ -12,7 +12,9 @@
 <br>
 <table>
 <tbody>
- <tr>
+
+<tr>
+
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
@@ -20,7 +22,6 @@
 
 <td align="center" width="20%">
 <span><b><center>Angular</center></b></span> 
-<!-- <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png">  -->
 <img height=65px src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 </td>
 
@@ -28,7 +29,6 @@
 
 <td align="center" width="20%">
 <span><b><center>Vue</center></b></span> 
-<!-- <img height=65px src="https://img.icons8.com/color/2x/flutter.png">  -->
 <img  height=65px src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 </td>
 </tr>
@@ -37,12 +37,12 @@
 
 <td align="center" width="20%">
 <span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<img height=65px src="https://img.icons8.com/fluent/96/swift.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<img height=65px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
 </tr>
 
