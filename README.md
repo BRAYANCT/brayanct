@@ -75,7 +75,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<img height=60px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
 <td align="center" width="20%">
