@@ -37,7 +37,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Swift</center></b></span> 
-<img height=65px src="https://img.icons8.com/fluent/96/swift.png"> 
+<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -54,7 +54,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
 <td align="center" width="20%">
