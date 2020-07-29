@@ -16,61 +16,62 @@
 <tr>
 
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+    <span><b><center>ReactJS</center></b></span> 
+    <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Angular</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+    <span><b><center>Angular</center></b></span> 
+    <img height=65px src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 </td>
 
 
 
 <td align="center" width="20%">
-<span><b><center>Vue</center></b></span> 
-<img  height=65px src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+    <span><b><center>Vue</center></b></span> 
+    <img  height=65px src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+</td>
+</tr>
+<!-- segunda fase -->
+
+<td align="center" width="20%">
+    <span><b><center>Swift</center></b></span> 
+    <img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+</td>
+
+<td align="center" width="20%">
+    <span><b><center>NodeJS</center></b></span> 
+    <img height=65px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+
+
+
+<td align="center" width="20%">
+    <span><b><center>CSS</center></b></span> 
+    <img height=65px src="https://img.icons8.com/nolan/2x/css.png"> 
 </td>
 </tr>
 
-
+<!-- tercera face -->
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+    <span><b><center>Git</center></b></span> 
+    <img height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/css.png"> 
+    <span><b><center>Python</center></b></span> 
+    <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
 
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
-</tr>
 
-<tr>
 <td align="center" width="20%">
 <span><b><center>PHP</center></b></span> 
-<!-- <img height=65px src="https://img.icons8.com/bubbles/2x/php.png">  -->
 <img height=65px src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
 </td>
 
-
+<!-- cuarta fase -->
 
 <tr>
 <td align="center" width="20%">
