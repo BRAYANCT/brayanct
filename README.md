@@ -42,13 +42,14 @@
 <td align="center" width="20%">
     <span><b><center>NodeJS</center></b></span> 
     <img height=65px src="https://img.icons8.com/color/2x/nodejs.png"> 
+ 
 </td>
 
 
 
 <td align="center" width="20%">
     <span><b><center>CSS</center></b></span> 
-    <img height=65px src="https://img.icons8.com/nolan/2x/css.png"> 
+    <img height=65px src="https://icons8.com/icon/21278/css3"> 
 </td>
 </tr>
 
