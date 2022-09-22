@@ -48,8 +48,8 @@ I am also an open source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-PHP          13 hrs 46 mins  ███████░░░░░░░░░░░░░░░░░░   25.12 %
-Angular      31 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   70.97 %
+Angular      15 hrs          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   70.97 %
+PHP          5 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   25.12 %
 JavaScript   2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
 Docker       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
 CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
