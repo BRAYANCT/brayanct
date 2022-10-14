@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hola, Mi nombre es Brayan CT 👋 <br/> </h2> 
+<h2 align="center"> HI, My name is Brayan CT 👋 <br/> </h2> 
 
 <a href="https://www.instagram.com/capchataype/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
