@@ -8,7 +8,7 @@
   <img align="left" alt="Brayan CT Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.facebook.com/brayan.capchataype">
-  <img align="left" alt="Brayan CT  Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Facebook.svg" />
+  <img align="left" alt="Brayan CT  Facebook" width="22px" src="https://camo.githubusercontent.com/d463cd299093e5708aa2c5bdbcc406ac5e67be68fac55836e4da5e5d78c70dd2/68747470733a2f2f7261772e6769746875622e636f6d2f4d617965752f6e6f742d6f6e2d66616365626f6f6b2d69636f6e2f6d61737465722f7265736f75726365732f6e6f742d6f6e2d66616365626f6f6b2e706e67" />
 </a>
 <a href="https://www.linkedin.com/in/brayan-capcha-90818a196/">
   <img align="left" alt="Brayan CT LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
