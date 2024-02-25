@@ -5,13 +5,13 @@
   <img align="left" alt="Brayan CT Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/Nv77YArh">
-  <img align="left" alt="Brayan CT Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Brayan CT Discord" width="22px" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" />
 </a>
 <a href="https://www.facebook.com/brayan.capchataype">
-  <img align="left" alt="Brayan CT  Facebook" width="22px" src="https://scontent.fcps3-1.fna.fbcdn.net/v/t39.30808-6/380700650_10162533193146729_2379134611963304810_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=uJeABm3Ob5cAX-pNMHf&_nc_ht=scontent.fcps3-1.fna&oh=00_AfAQE9FyvGDPd_egAyl1PtQ72RoH-W9JREnXVyFucEi5Dw&oe=65DFAAFE" />
+  <img align="left" alt="Brayan CT  Facebook" width="22px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />
 </a>
 <a href="https://www.linkedin.com/in/brayan-capcha-90818a196/">
-  <img align="left" alt="Brayan CT LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Brayan CT LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
