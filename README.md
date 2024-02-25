@@ -8,7 +8,7 @@
   <img align="left" alt="Brayan CT Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.facebook.com/brayan.capchataype">
-  <img align="left" alt="Brayan CT  Facebook" width="22px" src="https://camo.githubusercontent.com/d463cd299093e5708aa2c5bdbcc406ac5e67be68fac55836e4da5e5d78c70dd2/68747470733a2f2f7261772e6769746875622e636f6d2f4d617965752f6e6f742d6f6e2d66616365626f6f6b2d69636f6e2f6d61737465722f7265736f75726365732f6e6f742d6f6e2d66616365626f6f6b2e706e67" />
+  <img align="left" alt="Brayan CT  Facebook" width="22px" src="https://scontent.fcps3-1.fna.fbcdn.net/v/t39.30808-6/380700650_10162533193146729_2379134611963304810_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=uJeABm3Ob5cAX-pNMHf&_nc_ht=scontent.fcps3-1.fna&oh=00_AfAQE9FyvGDPd_egAyl1PtQ72RoH-W9JREnXVyFucEi5Dw&oe=65DFAAFE" />
 </a>
 <a href="https://www.linkedin.com/in/brayan-capcha-90818a196/">
   <img align="left" alt="Brayan CT LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
